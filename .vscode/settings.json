@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "lista_sequencial_dinamica.h": "c"
+    }
+}
