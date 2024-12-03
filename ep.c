@@ -14,6 +14,7 @@ ListaLinhas * crialinha(int capacidade){
 	return linha;
 }
 
+
 Boolean carragaArquivo(int argc, char ** argv){
 		FILE * in;
 		char * linha;
